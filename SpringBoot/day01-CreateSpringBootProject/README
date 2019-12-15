@@ -1,0 +1,14 @@
+创建一个SpringBoot项目。
+1、New Project
+2、Spring Initializr
+3、填写相关信息
+4、在Web栏选择Spring Web
+5、填写路径
+6、finish
+
+测试SpringBoot项目是否创建成功
+1、将DemoApplication使用@RestController注解一下，
+2、然后新增一个hello方法，注解为 @RequestMapping("hello")，
+3、启动SpringBoot项目
+4、浏览器访问http://localhost:8080/hello
+
