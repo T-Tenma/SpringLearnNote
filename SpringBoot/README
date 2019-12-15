@@ -1,0 +1,7 @@
+创建一个SpringBoot项目。
+1、New Project
+2、Spring Initializr
+3、填写相关信息
+4、在Web栏选择Spring Web
+5、填写路径
+6、finish
